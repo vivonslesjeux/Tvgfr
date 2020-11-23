@@ -1,0 +1,53 @@
+BODY {
+ background:	#E0FFFF;
+ margin: 0;
+ padding: 0;
+ font-family: 'Advent Pro', sans-serif;
+}
+
+h3{
+ text-align: center;
+}
+p{
+ font-size: 1.5em;
+ text-align: justify;
+}
+.sitename{
+ text-shadow:1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+
+ letter-spacing: .25em;
+ color: #00FFFF;
+ text-align: center;
+}
+#accueil{
+ text-align: center;
+ color: 	#00FFFF;
+ text-shadow: 2px 12px 8px #CE5937;
+}
+#descriptiondusite{
+ text-align: center;
+ color:	black;
+}
+#principe-du-site{
+ text-align: center;
+ color: 	#00FFFF;
+}
+#textdansprincipe{
+ text-align: center;
+ color:black;
+
+}
+#qui-suis-je{
+ text-align: center;
+ color:	#00FFFF;
+}
+#text-dans-qui-suis-je{
+ text-align: center;
+ color:	black;
+}
+#decouvrir-site{
+ text-align: center;
+ color:black;
+}
+#laisser-un-mail{
+}
